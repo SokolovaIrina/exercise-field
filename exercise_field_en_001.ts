@@ -10,7 +10,9 @@
     </message>
     <message>
         <location filename="HomeForm.ui.qml" line="11"/>
-        <source>You are on the home page.</source>
+        <source>You are on the home page.
+Bro!</source>
+        <oldsource>You are on the home page.</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>

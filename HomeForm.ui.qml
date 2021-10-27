@@ -8,7 +8,7 @@ Page {
     title: qsTr("Home")
 
     Label {
-        text: qsTr("You are on the home page.")
+        text: qsTr("You are on the home page.\nBro!")
         anchors.centerIn: parent
     }
 }
